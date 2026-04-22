@@ -1,0 +1,6 @@
+#!/bin/bash
+pmod +x 0-current_working_directory
+./0-current_working_directory
+git add .
+git commit -m "Task 0 fixed"
+git push
